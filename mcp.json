@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+        "sajn": {
+            "type": "http",
+            "url": "https://app.sajn.se/api/mcp"
+        },
+        "sajn-docs": {
+            "type": "http",
+            "url": "https://docs.sajn.se/mcp"
+        }
+    }
+}

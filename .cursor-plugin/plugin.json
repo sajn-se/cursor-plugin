@@ -1,0 +1,17 @@
+{
+    "name": "sajn",
+    "displayName": "sajn",
+    "version": "1.0.0",
+    "description": "Draft, send, and follow up on e-signature documents in your sajn workspace, and build and debug integrations against the sajn API.",
+    "author": {
+        "name": "sajn",
+        "email": "hej@sajn.se"
+    },
+    "homepage": "https://sajn.se",
+    "repository": "https://github.com/sajn-se/cursor-plugin",
+    "license": "MIT",
+    "keywords": ["sajn", "e-signature", "esign", "bankid", "contracts", "documents", "webhooks", "api", "mcp", "sweden", "nordic"],
+    "logo": "assets/logo.svg",
+    "skills": "skills",
+    "mcpServers": "mcp.json"
+}
