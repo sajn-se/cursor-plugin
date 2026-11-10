@@ -11,7 +11,7 @@
     "repository": "https://github.com/sajn-se/cursor-plugin",
     "license": "MIT",
     "keywords": ["sajn", "e-signature", "esign", "bankid", "contracts", "documents", "webhooks", "api", "mcp", "sweden", "nordic"],
-    "logo": "assets/logo.svg",
+    "logo": "assets/logo.png",
     "skills": "skills",
     "mcpServers": "mcp.json"
 }
